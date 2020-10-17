@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Softlibr.LBRegex</RootNamespace>
+    <AssemblyName>Softlibr.LBRegex</AssemblyName>
+  </PropertyGroup>
+
+</Project>
